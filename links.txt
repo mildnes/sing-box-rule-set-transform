@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/mildnes/clash_rule/refs/heads/main/rules/custom_lan.yaml
+https://raw.githubusercontent.com/mildnes/clash_rule/refs/heads/main/rules/pt.yaml
