@@ -6,6 +6,7 @@
         "129888.xyz",
         "DOMAIN:tz.910321.xyz",
         "adobe.com",
+        "amazonaws.com",
         "api.acaisbest.shop",
         "api.insight.synology.com",
         "api.ip.sb",
@@ -13,9 +14,11 @@
         "ark.yanyuwangluo.cn",
         "bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org",
         "bgm.tv",
+        "cloud.plex.tv",
         "cmcc.52nanami.cn",
         "cn-music.mefun.vip",
         "cpu-world.com",
+        "discovery.plex.tv",
         "docker.naslabs.net",
         "dpj.usxx.xyz",
         "epg.pw",
@@ -32,6 +35,7 @@
         "openapi.aliyundrive.com",
         "p.once.im",
         "plex.20120714.xyz",
+        "plex.direct",
         "qyapi.weixin.qq.com",
         "rpi.zhelee.cn",
         "sgp.005158.xyz",
@@ -45,6 +49,7 @@
         "tk2.usxx.xyz",
         "tz.usxx.xyz",
         "v2.usxx.xyz",
+        "v4.plex.tv",
         "we.jd.com",
         "wxpusher.zjiecode.com"
       ]
@@ -52,12 +57,15 @@
     {
       "domain_suffix": [
         ".091321.xyz",
+        ".amazonaws.com",
         ".argotunnel.com",
         ".bgm.tv",
+        ".cloud.plex.tv",
         ".cpu-world.com",
         ".epg.pw",
         ".ipapi.co",
         ".nastool.org",
+        ".plex.direct",
         ".tailscale.com",
         ".tailscale.io",
         ".test-ipv6.com"
