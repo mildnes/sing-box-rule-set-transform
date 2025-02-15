@@ -2,3 +2,8 @@ https://raw.githubusercontent.com/mildnes/clash_rule/refs/heads/main/rules/custo
 https://raw.githubusercontent.com/mildnes/clash_rule/refs/heads/main/rules/custom_proxy.yaml
 https://raw.githubusercontent.com/mildnes/clash_rule/refs/heads/main/rules/pt.yaml
 https://raw.githubusercontent.com/mildnes/clash_rule/refs/heads/main/rules/ai.yaml
+##AI
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Gemini/Gemini.yaml
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+##MEDIA
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml 
