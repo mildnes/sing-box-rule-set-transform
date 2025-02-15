@@ -4,6 +4,7 @@
       "domain": [
         "091321.xyz",
         "129888.xyz",
+        "233778.xyz",
         "DOMAIN:tz.910321.xyz",
         "adobe.com",
         "amazonaws.com",
@@ -21,6 +22,7 @@
         "discovery.plex.tv",
         "docker.naslabs.net",
         "dpj.usxx.xyz",
+        "emby11.02120913.xyz",
         "epg.pw",
         "g.once.im",
         "hk.usxx.xyz",
@@ -29,6 +31,7 @@
         "ipapi.co",
         "live.v1.mk",
         "mirrors.cloud.aliyuncs.com.localdomain",
+        "monisaiche.cn",
         "msg.usxx.xyz",
         "music.imetyou.top",
         "nastool.org",
@@ -76,6 +79,7 @@
     {
       "ip_cidr": [
         "129.150.32.0/19",
+        "13.33.96.22/32",
         "131.186.40.1/32",
         "131.186.46.130/32",
         "132.226.202.238/32",
@@ -97,7 +101,9 @@
         "158.101.72.170/32",
         "158.101.91.223/32",
         "158.179.176.231/32",
+        "158.180.64.0/18",
         "18.207.178.0/24",
+        "18.65.221.107/32",
         "193.122.0.0/19",
         "193.122.113.77/32",
         "43.154.4.40/32",
