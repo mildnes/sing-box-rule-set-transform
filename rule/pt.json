@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain": [
-        "233778.xyz",
         "52pt.site",
         "aidoru-online.me",
         "alpharatio.cc",
@@ -28,24 +27,17 @@
         "byr.pt",
         "carpt.net",
         "ccfbits.org",
-        "cfgtv.ii00.cc",
-        "cfptv.ii00.cc",
         "cgpeers.com",
         "chdbits.xyz",
         "cinemageddon.net",
         "cinematik.net",
         "cinemaz.to",
         "classix-unlimited.co.uk",
-        "cloudflare-cn.com",
         "concertos.live",
         "dicmusic.club",
         "discfan.net",
         "dxdhd.com",
         "eastgame.org",
-        "emby.misakaf.org",
-        "emby11.02120913.xyz",
-        "emby2.misakaf.org",
-        "embyvip.misakaf.org",
         "empornium.me",
         "et8.org",
         "exoticaz.to",
@@ -92,10 +84,8 @@
         "m-team.cc",
         "madsrevolution.net",
         "moecat.best",
-        "monisaiche.cn",
         "morethan.tv",
         "msg.vg",
-        "music.mefun.vip",
         "myanonamouse.net",
         "nanyangpt.com",
         "ncore.cc",
@@ -105,11 +95,8 @@
         "nwsuaf6.edu.cn",
         "open.cd",
         "oppaiti.me",
-        "orjp2.20120714.xyz",
-        "orjp3.20120714.xyz",
         "orpheus.network",
         "ourbits.club",
-        "pandoranext.com",
         "passthepopcorn.me",
         "pornbits.net",
         "privatehd.to",
@@ -119,7 +106,6 @@
         "ptsbao.club",
         "pussytorrents.org",
         "qingwapt.com",
-        "rd.happyav.eu.org",
         "redacted.ch",
         "sdbits.org",
         "sharkpt.net",
@@ -128,7 +114,6 @@
         "soulvoice.club",
         "springsunday.net",
         "star-space.net",
-        "synology.com",
         "tju.pt",
         "tjupt.org",
         "torrentday.com",
@@ -139,11 +124,7 @@
         "trontv.com",
         "u2.dmhy.org",
         "uhdbits.org",
-        "v.20120714.xyz",
-        "wgtv.ii00.cc",
-        "wptv.ii00.cc",
         "xauat6.edu.cn",
-        "xl.studyfun.live",
         "xp.m-team.io",
         "zhuque.in"
       ]
@@ -281,13 +262,6 @@
         ".xauat6.edu.cn",
         ".xp.m-team.io",
         ".zhuque.in"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "13.33.96.22/32",
-        "158.180.64.0/18",
-        "18.65.221.107/32"
       ]
     }
   ],
